@@ -422,25 +422,12 @@
 <p>一阵风吹过，吹动了一根木杆上的风铃，发出清脆的声响。</p>
 <p>徐璐璐将手里的石块一丢，笑声里面都是哭腔。</p>
 <p>“你个混蛋。”</p>
+<hr>
 <p>文: CreamTea</p>
 <hr>
 ]]></content>
       <tags>
         <tag>主线剧情</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>新角色上线——林菡</title>
-    <url>/2025/09/02/%E6%9E%97%E8%8F%A1%E7%9A%AE%E8%82%A4/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="你好，我叫林菡。"><a href="#你好，我叫林菡。" class="headerlink" title="你好，我叫林菡。"></a>你好，我叫林菡。</h1><h2 id="一、观影定位"><a href="#一、观影定位" class="headerlink" title="一、观影定位"></a>一、观影定位</h2><p><img src="/pics/%E6%9E%97%E8%8F%A1%E8%A7%82%E5%BD%B1%E5%AE%9A%E4%BD%8D.png"></p>
-<h2 id="二、映前介绍"><a href="#二、映前介绍" class="headerlink" title="二、映前介绍"></a>二、映前介绍</h2><p><img src="/pics/%E6%9E%97%E8%8F%A1%E6%98%A0%E5%89%8D%E4%BB%8B%E7%BB%8D.png"></p>
-<h2 id="三、角色技能"><a href="#三、角色技能" class="headerlink" title="三、角色技能"></a>三、角色技能</h2><p><img src="/pics/%E6%9E%97%E8%8F%A1%E6%8A%80%E8%83%BD.jpg"></p>
-<h2 id="四、观影指南"><a href="#四、观影指南" class="headerlink" title="四、观影指南"></a>四、观影指南</h2><p>除人物技能外，林菡皮肤相比默认皮肤还做出了其他的优化，一起来看看吧！<br><img src="/pics/%E8%A7%82%E5%BD%B1%E6%8C%87%E5%8D%97.png"></p>
-<h2 id="五、下载链接"><a href="#五、下载链接" class="headerlink" title="五、下载链接"></a>五、下载链接</h2><p>您可以在群内搜索相应皮肤文件，也可以<a href="http://file.mugzone.net//6475-RM-Tea_Charm_Lin_Han_Skin.msp?t=1756793193">点击此处</a>直接下载。有关皮肤更多信息，欢迎访问<a href="https://m.mugzone.net/store/skin/detail/6475">https://m.mugzone.net/store/skin/detail/6475</a>。</p>
-<hr>
-]]></content>
-      <tags>
-        <tag>上线皮肤</tag>
       </tags>
   </entry>
   <entry>
@@ -453,12 +440,12 @@
 <h2 id="三、主线《旧屋门前人影》系列第二篇章放映"><a href="#三、主线《旧屋门前人影》系列第二篇章放映" class="headerlink" title="三、主线《旧屋门前人影》系列第二篇章放映"></a>三、主线《旧屋门前人影》系列第二篇章放映</h2><p>第二篇章《昨日叶落，明日金花》将会围绕叶洛以及他的经历开展。当一个人的生活被爱意填满，是否还能够准确地分辨出“谎言”与“真相”呢？更新方式会在B站官号的专栏发布~</p>
 <h2 id="四、主线曲包《昨日叶落，明日金花》更新"><a href="#四、主线曲包《昨日叶落，明日金花》更新" class="headerlink" title="四、主线曲包《昨日叶落，明日金花》更新"></a>四、主线曲包《昨日叶落，明日金花》更新</h2><p>主线曲包《昨日叶落，明日金花》将作为第三期第一个茶韵活动曲包同步于MalodyV的官方Event释出，包含《七色交响曲》、《花たちに希望を》等歌曲。参与活动可以获得1.2主线周边、周边打折券和心愿点歌台的点歌次数哦!</p>
 
-        <div id="aplayer-vSwcCUdi" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:100%;">
+        <div id="aplayer-SKfRAebH" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:100%;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-vSwcCUdi"),
+            element: document.getElementById("aplayer-SKfRAebH"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -474,12 +461,12 @@
           window.aplayers.push(ap);
         </script>
 
-        <div id="aplayer-nAvkDykU" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:100%;">
+        <div id="aplayer-GdDRGVPp" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:100%;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-nAvkDykU"),
+            element: document.getElementById("aplayer-GdDRGVPp"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -507,35 +494,6 @@
       </tags>
   </entry>
   <entry>
-    <title>测试界面01</title>
-    <url>/2025/08/20/1/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><hr>
-<p><img src="/pics/teacharm.png" alt="1"></p>
-
-        <div id="aplayer-XRjvyoOF" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:60%;">
-            <pre class="aplayer-lrc-content"></pre>
-        </div>
-        <script>
-          var ap = new APlayer({
-            element: document.getElementById("aplayer-XRjvyoOF"),
-            narrow: false,
-            autoplay: false,
-            showlrc: false,
-            music: {
-              title: "v3",
-              author: "BeautifulDay",
-              url: "/music/v3.mp3",
-              pic: "/pics/teacharm.png",
-              lrc: ""
-            }
-          });
-          window.aplayers || (window.aplayers = []);
-          window.aplayers.push(ap);
-        </script>
-
-]]></content>
-  </entry>
-  <entry>
     <title>茶韵播报 第1期</title>
     <url>/2025/08/21/%E6%92%AD%E6%8A%A51/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>阳光透过蓝色的窗帘，照在病床上，白花花一片。嘿！那里已经没有人了，你在看什么呢？一首全球爆火的歌、一盘蒙太奇片段构成的录像带、一场泣下如雨的葬礼……她的离去是谁一辈子的阴霾，如同这七月，寥无晴天。茶韵主线版本1.1开启！《旧屋门前人影》系列故事第一篇章《七月无晴天》将在奇点放映室为您放映，还有新角色、新曲包等待大家来体验！</p>
@@ -545,12 +503,12 @@
 <h2 id="三、主线《旧屋门前人影》系列篇章正式放映"><a href="#三、主线《旧屋门前人影》系列篇章正式放映" class="headerlink" title="三、主线《旧屋门前人影》系列篇章正式放映"></a>三、主线《旧屋门前人影》系列篇章正式放映</h2><p>第一篇章《七月无晴天》将会围绕林菡以及她身边的事情开展。生命最后的日子里，爱情、友情如同两颗永恒的太阳围绕着她。是温暖，还是炙烤?她的、他们的故事等待着大家的阅读。更新方式会在B站官号的专栏发布~<br><img src="/pics/%E6%97%A7%E5%B1%8B%E9%97%A8%E5%89%8D%E4%BA%BA%E5%BD%B1.png"></p>
 <h2 id="四、主线曲包《七月无晴天》更新"><a href="#四、主线曲包《七月无晴天》更新" class="headerlink" title="四、主线曲包《七月无晴天》更新"></a>四、主线曲包《七月无晴天》更新</h2><p>主线曲包《七月无晴天》将作为第二期第一个茶韵Event曲包同步于 Malody V 的官方Event释出，包含《你要的全拿走》、《Sacred Play Secret Place》等歌曲。参与活动可以获得1.1主线周边、周边打折券和心愿点歌台的点歌次数哦!</p>
 
-        <div id="aplayer-YiSxQreN" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:100%;">
+        <div id="aplayer-JBZFAIkg" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:100%;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-YiSxQreN"),
+            element: document.getElementById("aplayer-JBZFAIkg"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -566,12 +524,12 @@
           window.aplayers.push(ap);
         </script>
 
-        <div id="aplayer-bSkCHYNA" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:100%;">
+        <div id="aplayer-qhENXiWN" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:100%;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-bSkCHYNA"),
+            element: document.getElementById("aplayer-qhENXiWN"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -594,6 +552,49 @@
 ]]></content>
       <tags>
         <tag>新版本预热</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>测试界面01</title>
+    <url>/2025/08/20/1/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><hr>
+<p><img src="/pics/teacharm.png" alt="1"></p>
+
+        <div id="aplayer-EuawARTE" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:60%;">
+            <pre class="aplayer-lrc-content"></pre>
+        </div>
+        <script>
+          var ap = new APlayer({
+            element: document.getElementById("aplayer-EuawARTE"),
+            narrow: false,
+            autoplay: false,
+            showlrc: false,
+            music: {
+              title: "v3",
+              author: "BeautifulDay",
+              url: "/music/v3.mp3",
+              pic: "/pics/teacharm.png",
+              lrc: ""
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+        </script>
+
+]]></content>
+  </entry>
+  <entry>
+    <title>新角色上线——林菡</title>
+    <url>/2025/09/02/%E6%9E%97%E8%8F%A1%E7%9A%AE%E8%82%A4/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="你好，我叫林菡。"><a href="#你好，我叫林菡。" class="headerlink" title="你好，我叫林菡。"></a>你好，我叫林菡。</h1><h2 id="一、观影定位"><a href="#一、观影定位" class="headerlink" title="一、观影定位"></a>一、观影定位</h2><p><img src="/pics/%E6%9E%97%E8%8F%A1%E8%A7%82%E5%BD%B1%E5%AE%9A%E4%BD%8D.png"></p>
+<h2 id="二、映前介绍"><a href="#二、映前介绍" class="headerlink" title="二、映前介绍"></a>二、映前介绍</h2><p><img src="/pics/%E6%9E%97%E8%8F%A1%E6%98%A0%E5%89%8D%E4%BB%8B%E7%BB%8D.png"></p>
+<h2 id="三、角色技能"><a href="#三、角色技能" class="headerlink" title="三、角色技能"></a>三、角色技能</h2><p><img src="/pics/%E6%9E%97%E8%8F%A1%E6%8A%80%E8%83%BD.jpg"></p>
+<h2 id="四、观影指南"><a href="#四、观影指南" class="headerlink" title="四、观影指南"></a>四、观影指南</h2><p>除人物技能外，林菡皮肤相比默认皮肤还做出了其他的优化，一起来看看吧！<br><img src="/pics/%E8%A7%82%E5%BD%B1%E6%8C%87%E5%8D%97.png"></p>
+<h2 id="五、下载链接"><a href="#五、下载链接" class="headerlink" title="五、下载链接"></a>五、下载链接</h2><p>您可以在群内搜索相应皮肤文件，也可以<a href="http://file.mugzone.net//6475-RM-Tea_Charm_Lin_Han_Skin.msp?t=1756793193">点击此处</a>直接下载。有关皮肤更多信息，欢迎访问<a href="https://m.mugzone.net/store/skin/detail/6475">https://m.mugzone.net/store/skin/detail/6475</a>。</p>
+<hr>
+]]></content>
+      <tags>
+        <tag>上线皮肤</tag>
       </tags>
   </entry>
 </search>

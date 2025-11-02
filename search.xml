@@ -6,12 +6,12 @@
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><hr>
 <p><img src="/pics/teacharm.png" alt="1"></p>
 
-        <div id="aplayer-acjdLErb" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:60%;">
+        <div id="aplayer-vPNDbeje" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:60%;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-acjdLErb"),
+            element: document.getElementById("aplayer-vPNDbeje"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -30,6 +30,67 @@
 ]]></content>
   </entry>
   <entry>
+    <title>茶韵播报 第1期</title>
+    <url>/2025/08/21/%E6%92%AD%E6%8A%A51/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>阳光透过蓝色的窗帘，照在病床上，白花花一片。嘿！那里已经没有人了，你在看什么呢？一首全球爆火的歌、一盘蒙太奇片段构成的录像带、一场泣下如雨的葬礼……她的离去是谁一辈子的阴霾，如同这七月，寥无晴天。茶韵主线版本1.1开启！《旧屋门前人影》系列故事第一篇章《七月无晴天》将在奇点放映室为您放映，还有新角色、新曲包等待大家来体验！</p>
+<p><img src="/pics/newrole1.1.jpg"></p>
+<h2 id="一、1-1版本预热活动《一卷录像带》先导放映"><a href="#一、1-1版本预热活动《一卷录像带》先导放映" class="headerlink" title="一、1.1版本预热活动《一卷录像带》先导放映"></a>一、1.1版本预热活动《一卷录像带》先导放映</h2><p><img src="/pics/1.1%E9%A2%84%E7%83%AD.png"><br>明明是一卷录像带，可首先见到的的却是一本铺满灰尘的薄本。这些置留心底的故事，是谁挥之不去的阴霾?</p>
+<h2 id="二、第1期《吼吼留声机》结算"><a href="#二、第1期《吼吼留声机》结算" class="headerlink" title="二、第1期《吼吼留声机》结算"></a>二、第1期《吼吼留声机》结算</h2><p>感谢大家在1.0版本游玩茶韵的三期event，我们将记录《重返未来Vo1.1》、《术力ロの精选集 Vo1.4》和《动感节拍Vo1.7》三期event 的成绩，并发放奖励，请获得奖励的玩家及时查看私信!</p>
+<h2 id="三、主线《旧屋门前人影》系列篇章正式放映"><a href="#三、主线《旧屋门前人影》系列篇章正式放映" class="headerlink" title="三、主线《旧屋门前人影》系列篇章正式放映"></a>三、主线《旧屋门前人影》系列篇章正式放映</h2><p>第一篇章《七月无晴天》将会围绕林菡以及她身边的事情开展。生命最后的日子里，爱情、友情如同两颗永恒的太阳围绕着她。是温暖，还是炙烤?她的、他们的故事等待着大家的阅读。更新方式会在B站官号的专栏发布~<br><img src="/pics/%E6%97%A7%E5%B1%8B%E9%97%A8%E5%89%8D%E4%BA%BA%E5%BD%B1.png"></p>
+<h2 id="四、主线曲包《七月无晴天》更新"><a href="#四、主线曲包《七月无晴天》更新" class="headerlink" title="四、主线曲包《七月无晴天》更新"></a>四、主线曲包《七月无晴天》更新</h2><p>主线曲包《七月无晴天》将作为第二期第一个茶韵Event曲包同步于 Malody V 的官方Event释出，包含《你要的全拿走》、《Sacred Play Secret Place》等歌曲。参与活动可以获得1.1主线周边、周边打折券和心愿点歌台的点歌次数哦!</p>
+
+        <div id="aplayer-ikqMincg" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:100%;">
+            <pre class="aplayer-lrc-content"></pre>
+        </div>
+        <script>
+          var ap = new APlayer({
+            element: document.getElementById("aplayer-ikqMincg"),
+            narrow: false,
+            autoplay: false,
+            showlrc: false,
+            music: {
+              title: "你要的全拿走",
+              author: "胡彦斌",
+              url: "/music/你要的全拿走.mp3",
+              pic: "/pics/你要的全拿走.jpg",
+              lrc: ""
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+        </script>
+
+        <div id="aplayer-csGKWlPq" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:100%;">
+            <pre class="aplayer-lrc-content"></pre>
+        </div>
+        <script>
+          var ap = new APlayer({
+            element: document.getElementById("aplayer-csGKWlPq"),
+            narrow: false,
+            autoplay: false,
+            showlrc: false,
+            music: {
+              title: "Sacred Play Secret Place",
+              author: "Matryoshka",
+              url: "/music/Sacred Play Secret Place.mp3",
+              pic: "/pics/Sacred Play Secret Place.jpg",
+              lrc: ""
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+        </script>
+
+<h2 id="五、新角色「林菡」登场，新技能、新面板全都有"><a href="#五、新角色「林菡」登场，新技能、新面板全都有" class="headerlink" title="五、新角色「林菡」登场，新技能、新面板全都有!"></a>五、新角色「林菡」登场，新技能、新面板全都有!</h2><p>新角色「林菡」将会在1.1版本发布后公开新的RM风格皮肤，同时拥有专属新技能哦!<br><img src="/pics/%E6%9E%97%E8%8F%A1%E5%B0%81%E9%9D%A2.png"></p>
+<h2 id="六、《七月无晴天》主线主题周边售卖"><a href="#六、《七月无晴天》主线主题周边售卖" class="headerlink" title="六、《七月无晴天》主线主题周边售卖"></a>六、《七月无晴天》主线主题周边售卖</h2><p>1.1主线周边将于1.1版本第一场Event 下半正式售卖。价格公道、制作精美，请大家期待哦~ 周边盈利茶韵会用来进行美术、音乐等方面的专属定制~</p>
+<h2 id="七、第2期《吼吼留声机》开启"><a href="#七、第2期《吼吼留声机》开启" class="headerlink" title="七、第2期《吼吼留声机》开启"></a>七、第2期《吼吼留声机》开启</h2><p>散落的音符落在指尖，新的声音从其缓缓流出。全新三期event，让我们拭目以待。</p>
+<hr>
+]]></content>
+      <tags>
+        <tag>新版本预热</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>茶韵播报 第2期</title>
     <url>/2025/11/01/%E6%92%AD%E6%8A%A52/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>种下一棵树，最好的时间是什么时候呢？也许每个人都有自己的答案，而对于叶洛来说，这个时间被定格在儿时的某个下午；对白羽来讲，亦是如此。他们协作，亲手种下一把种子，展望着那看似伸手就能摸得到的未来；他们许诺，要在每年秋天尽情采摘，同田间邻里亲朋共享丰收时刻；他们见证，见证了一个又一个春夏秋冬，转眼间即将见证他们彼此的成人之喜。他们习惯着享受对方的陪伴宠爱，直到……<br>《旧屋门前人影》系列故事第二篇章《昨日叶落，明日金花》将在奇点放映室为您放映，还有新角色、新曲包等待大家来体验！</p>
@@ -39,12 +100,12 @@
 <h2 id="三、主线《旧屋门前人影》系列第二篇章放映"><a href="#三、主线《旧屋门前人影》系列第二篇章放映" class="headerlink" title="三、主线《旧屋门前人影》系列第二篇章放映"></a>三、主线《旧屋门前人影》系列第二篇章放映</h2><p>第二篇章《昨日叶落，明日金花》将会围绕叶洛以及他的经历开展。当一个人的生活被爱意填满，是否还能够准确地分辨出“谎言”与“真相”呢？更新方式会在B站官号的专栏发布~</p>
 <h2 id="四、主线曲包《昨日叶落，明日金花》更新"><a href="#四、主线曲包《昨日叶落，明日金花》更新" class="headerlink" title="四、主线曲包《昨日叶落，明日金花》更新"></a>四、主线曲包《昨日叶落，明日金花》更新</h2><p>主线曲包《昨日叶落，明日金花》将作为第三期第一个茶韵活动曲包同步于MalodyV的官方Event释出，包含《七色交响曲》、《花たちに希望を》等歌曲。参与活动可以获得1.2主线周边、周边打折券和心愿点歌台的点歌次数哦!</p>
 
-        <div id="aplayer-FeCAEhAu" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:60%;">
+        <div id="aplayer-tzLJgsDo" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:100%;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-FeCAEhAu"),
+            element: document.getElementById("aplayer-tzLJgsDo"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -60,12 +121,12 @@
           window.aplayers.push(ap);
         </script>
 
-        <div id="aplayer-ikSxiNQf" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:60%;">
+        <div id="aplayer-HrZsyDlE" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:100%;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-ikSxiNQf"),
+            element: document.getElementById("aplayer-HrZsyDlE"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -93,64 +154,17 @@
       </tags>
   </entry>
   <entry>
-    <title>茶韵播报 第1期</title>
-    <url>/2025/08/21/%E6%92%AD%E6%8A%A51/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>阳光透过蓝色的窗帘，照在病床上，白花花一片。嘿！那里已经没有人了，你在看什么呢？一首全球爆火的歌、一盘蒙太奇片段构成的录像带、一场泣下如雨的葬礼……她的离去是谁一辈子的阴霾，如同这七月，寥无晴天。茶韵主线版本1.1开启！《旧屋门前人影》系列故事第一篇章《七月无晴天》将在奇点放映室为您放映，还有新角色、新曲包等待大家来体验！</p>
-<p><img src="/pics/newrole1.1.jpg"></p>
-<h2 id="一、1-1版本预热活动《一卷录像带》先导放映"><a href="#一、1-1版本预热活动《一卷录像带》先导放映" class="headerlink" title="一、1.1版本预热活动《一卷录像带》先导放映"></a>一、1.1版本预热活动《一卷录像带》先导放映</h2><p><img src="/pics/1.1%E9%A2%84%E7%83%AD.png"><br>明明是一卷录像带，可首先见到的的却是一本铺满灰尘的薄本。这些置留心底的故事，是谁挥之不去的阴霾?</p>
-<h2 id="二、第1期《吼吼留声机》结算"><a href="#二、第1期《吼吼留声机》结算" class="headerlink" title="二、第1期《吼吼留声机》结算"></a>二、第1期《吼吼留声机》结算</h2><p>感谢大家在1.0版本游玩茶韵的三期event，我们将记录《重返未来Vo1.1》、《术力ロの精选集 Vo1.4》和《动感节拍Vo1.7》三期event 的成绩，并发放奖励，请获得奖励的玩家及时查看私信!</p>
-<h2 id="三、主线《旧屋门前人影》系列篇章正式放映"><a href="#三、主线《旧屋门前人影》系列篇章正式放映" class="headerlink" title="三、主线《旧屋门前人影》系列篇章正式放映"></a>三、主线《旧屋门前人影》系列篇章正式放映</h2><p>第一篇章《七月无晴天》将会围绕林菡以及她身边的事情开展。生命最后的日子里，爱情、友情如同两颗永恒的太阳围绕着她。是温暖，还是炙烤?她的、他们的故事等待着大家的阅读。更新方式会在B站官号的专栏发布~<br><img src="/pics/%E6%97%A7%E5%B1%8B%E9%97%A8%E5%89%8D%E4%BA%BA%E5%BD%B1.png"></p>
-<h2 id="四、主线曲包《七月无晴天》更新"><a href="#四、主线曲包《七月无晴天》更新" class="headerlink" title="四、主线曲包《七月无晴天》更新"></a>四、主线曲包《七月无晴天》更新</h2><p>主线曲包《七月无晴天》将作为第二期第一个茶韵Event曲包同步于 Malody V 的官方Event释出，包含《你要的全拿走》、《Sacred Play Secret Place》等歌曲。参与活动可以获得1.1主线周边、周边打折券和心愿点歌台的点歌次数哦!</p>
-
-        <div id="aplayer-tBWxnVgh" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:60%;">
-            <pre class="aplayer-lrc-content"></pre>
-        </div>
-        <script>
-          var ap = new APlayer({
-            element: document.getElementById("aplayer-tBWxnVgh"),
-            narrow: false,
-            autoplay: false,
-            showlrc: false,
-            music: {
-              title: "你要的全拿走",
-              author: "胡彦斌",
-              url: "/music/你要的全拿走.mp3",
-              pic: "/pics/你要的全拿走.jpg",
-              lrc: ""
-            }
-          });
-          window.aplayers || (window.aplayers = []);
-          window.aplayers.push(ap);
-        </script>
-
-        <div id="aplayer-bRTxcUMk" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:60%;">
-            <pre class="aplayer-lrc-content"></pre>
-        </div>
-        <script>
-          var ap = new APlayer({
-            element: document.getElementById("aplayer-bRTxcUMk"),
-            narrow: false,
-            autoplay: false,
-            showlrc: false,
-            music: {
-              title: "Sacred Play Secret Place",
-              author: "Matryoshka",
-              url: "/music/Sacred Play Secret Place.mp3",
-              pic: "/pics/Sacred Play Secret Place.jpg",
-              lrc: ""
-            }
-          });
-          window.aplayers || (window.aplayers = []);
-          window.aplayers.push(ap);
-        </script>
-
-<h2 id="五、新角色「林菡」登场，新技能、新面板全都有"><a href="#五、新角色「林菡」登场，新技能、新面板全都有" class="headerlink" title="五、新角色「林菡」登场，新技能、新面板全都有!"></a>五、新角色「林菡」登场，新技能、新面板全都有!</h2><p>新角色「林菡」将会在1.1版本发布后公开新的RM风格皮肤，同时拥有专属新技能哦!<br><img src="/pics/%E6%9E%97%E8%8F%A1%E5%B0%81%E9%9D%A2.png"></p>
-<h2 id="六、《七月无晴天》主线主题周边售卖"><a href="#六、《七月无晴天》主线主题周边售卖" class="headerlink" title="六、《七月无晴天》主线主题周边售卖"></a>六、《七月无晴天》主线主题周边售卖</h2><p>1.1主线周边将于1.1版本第一场Event 下半正式售卖。价格公道、制作精美，请大家期待哦~ 周边盈利茶韵会用来进行美术、音乐等方面的专属定制~</p>
-<h2 id="七、第2期《吼吼留声机》开启"><a href="#七、第2期《吼吼留声机》开启" class="headerlink" title="七、第2期《吼吼留声机》开启"></a>七、第2期《吼吼留声机》开启</h2><p>散落的音符落在指尖，新的声音从其缓缓流出。全新三期event，让我们拭目以待。</p>
+    <title>新角色上线——林菡</title>
+    <url>/2025/09/02/%E6%9E%97%E8%8F%A1%E7%9A%AE%E8%82%A4/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="你好，我叫林菡。"><a href="#你好，我叫林菡。" class="headerlink" title="你好，我叫林菡。"></a>你好，我叫林菡。</h1><h2 id="一、观影定位"><a href="#一、观影定位" class="headerlink" title="一、观影定位"></a>一、观影定位</h2><p><img src="/pics/%E6%9E%97%E8%8F%A1%E8%A7%82%E5%BD%B1%E5%AE%9A%E4%BD%8D.png"></p>
+<h2 id="二、映前介绍"><a href="#二、映前介绍" class="headerlink" title="二、映前介绍"></a>二、映前介绍</h2><p><img src="/pics/%E6%9E%97%E8%8F%A1%E6%98%A0%E5%89%8D%E4%BB%8B%E7%BB%8D.png"></p>
+<h2 id="三、角色技能"><a href="#三、角色技能" class="headerlink" title="三、角色技能"></a>三、角色技能</h2><p><img src="/pics/%E6%9E%97%E8%8F%A1%E6%8A%80%E8%83%BD.jpg"></p>
+<h2 id="四、观影指南"><a href="#四、观影指南" class="headerlink" title="四、观影指南"></a>四、观影指南</h2><p>除人物技能外，林菡皮肤相比默认皮肤还做出了其他的优化，一起来看看吧！<br><img src="/pics/%E8%A7%82%E5%BD%B1%E6%8C%87%E5%8D%97.png"></p>
+<h2 id="五、下载链接"><a href="#五、下载链接" class="headerlink" title="五、下载链接"></a>五、下载链接</h2><p>您可以在群内搜索相应皮肤文件，也可以<a href="http://file.mugzone.net//6475-RM-Tea_Charm_Lin_Han_Skin.msp?t=1756793193">点击此处</a>直接下载。有关皮肤更多信息，欢迎访问<a href="https://m.mugzone.net/store/skin/detail/6475">https://m.mugzone.net/store/skin/detail/6475</a>。</p>
 <hr>
 ]]></content>
       <tags>
-        <tag>新版本预热</tag>
+        <tag>上线皮肤</tag>
       </tags>
   </entry>
 </search>

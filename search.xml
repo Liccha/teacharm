@@ -12,12 +12,12 @@
 <p style="color: #f01010ff;">换一下颜色</p>
 <p style="font-family: 'Source Han Serif CN', serif;">改一下字体</p>
 
-        <div id="aplayer-RGHTRGSJ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:80%;">
+        <div id="aplayer-MfedKZTU" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:80%;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-RGHTRGSJ"),
+            element: document.getElementById("aplayer-MfedKZTU"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -74,12 +74,12 @@
 
 <div style="text-align: left;">
 
-        <div id="aplayer-jlcidREf" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-hDcaLizk" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-jlcidREf"),
+            element: document.getElementById("aplayer-hDcaLizk"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -95,12 +95,12 @@
           window.aplayers.push(ap);
         </script>
 
-        <div id="aplayer-MRtutIif" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-NEjwHUmy" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-MRtutIif"),
+            element: document.getElementById("aplayer-NEjwHUmy"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -116,12 +116,12 @@
           window.aplayers.push(ap);
         </script>
 
-        <div id="aplayer-cUTIIpMU" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-wRWUHlhS" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-cUTIIpMU"),
+            element: document.getElementById("aplayer-wRWUHlhS"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -137,12 +137,12 @@
           window.aplayers.push(ap);
         </script>
 
-        <div id="aplayer-SkNeeCIu" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-gwsIdmnD" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-SkNeeCIu"),
+            element: document.getElementById("aplayer-gwsIdmnD"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -158,12 +158,12 @@
           window.aplayers.push(ap);
         </script>
 
-        <div id="aplayer-BQsbPkxy" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-ZBLcwLIg" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-BQsbPkxy"),
+            element: document.getElementById("aplayer-ZBLcwLIg"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -193,6 +193,173 @@
       </tags>
   </entry>
   <entry>
+    <title>《星轨乐途》—— 茶韵又一原创专辑上线！</title>
+    <url>/2025/10/12/%E6%98%9F%E8%BD%A8%E4%B9%90%E9%80%94/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div style="font-size: 18px;">
+<div style="font-family: 'Source Han Serif CN Semibold', serif;">
+<div style="text-align: center;">
+向前，向上。
+
+<p>透过窗镜，看到万千世界。</p>
+<div style="text-align: center;">
+
+<h2 id="专辑介绍"><a href="#专辑介绍" class="headerlink" title="专辑介绍"></a>专辑介绍</h2><div>
+
+<p><img src="/pics/%E6%98%9F%E8%BD%A8%E4%B9%90%E9%80%94.jpg"></p>
+<div style="text-align: center;">
+
+<h2 id="歌曲试听"><a href="#歌曲试听" class="headerlink" title="歌曲试听"></a>歌曲试听</h2><div>
+
+
+  <video controls style="max-width: 100%; height: auto;">
+    <source src="/video/星轨乐途.mp4" type="video/mp4">
+  </video>
+<div style="text-align: center;">
+
+<h2 id="歌曲一览"><a href="#歌曲一览" class="headerlink" title="歌曲一览"></a>歌曲一览</h2><div>
+
+<div style="text-align: left;">
+
+        <div id="aplayer-RxjFDVVk" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+            <pre class="aplayer-lrc-content"></pre>
+        </div>
+        <script>
+          var ap = new APlayer({
+            element: document.getElementById("aplayer-RxjFDVVk"),
+            narrow: false,
+            autoplay: false,
+            showlrc: false,
+            music: {
+              title: "可爱之夜&nbsp;(Kawaii Night)",
+              author: "&nbsp;6AM",
+              url: "/music/可爱之夜.mp3",
+              pic: "/pics/可爱之夜.jpg",
+              lrc: ""
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+        </script>
+
+        <div id="aplayer-TLMCbaJM" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+            <pre class="aplayer-lrc-content"></pre>
+        </div>
+        <script>
+          var ap = new APlayer({
+            element: document.getElementById("aplayer-TLMCbaJM"),
+            narrow: false,
+            autoplay: false,
+            showlrc: false,
+            music: {
+              title: "刻骨铭心&nbsp;(ENGMEMOVED)",
+              author: "&nbsp;6AM",
+              url: "/music/刻骨铭心.mp3",
+              pic: "/pics/刻骨铭心.jpg",
+              lrc: ""
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+        </script>
+
+        <div id="aplayer-qoGzutby" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+            <pre class="aplayer-lrc-content"></pre>
+        </div>
+        <script>
+          var ap = new APlayer({
+            element: document.getElementById("aplayer-qoGzutby"),
+            narrow: false,
+            autoplay: false,
+            showlrc: false,
+            music: {
+              title: "镜风云&nbsp;(Expansive Crystals)",
+              author: "&nbsp;Rovlas",
+              url: "/music/镜风云.mp3",
+              pic: "/pics/镜风云.jpg",
+              lrc: ""
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+        </script>
+
+        <div id="aplayer-LElagYys" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+            <pre class="aplayer-lrc-content"></pre>
+        </div>
+        <script>
+          var ap = new APlayer({
+            element: document.getElementById("aplayer-LElagYys"),
+            narrow: false,
+            autoplay: false,
+            showlrc: false,
+            music: {
+              title: "裂变回响&nbsp;(Cracking Echo)",
+              author: "&nbsp;Rovlas",
+              url: "/music/裂变回响.mp3",
+              pic: "/pics/裂变回响.jpg",
+              lrc: ""
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+        </script>
+
+        <div id="aplayer-UYtEqNEd" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+            <pre class="aplayer-lrc-content"></pre>
+        </div>
+        <script>
+          var ap = new APlayer({
+            element: document.getElementById("aplayer-UYtEqNEd"),
+            narrow: false,
+            autoplay: false,
+            showlrc: false,
+            music: {
+              title: "汞之雨~ Mercuriglym",
+              author: "&nbsp;凌云归故里",
+              url: "/music/汞之雨.mp3",
+              pic: "/pics/汞之雨.jpg",
+              lrc: ""
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+        </script>
+
+        <div id="aplayer-QbSUqNef" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+            <pre class="aplayer-lrc-content"></pre>
+        </div>
+        <script>
+          var ap = new APlayer({
+            element: document.getElementById("aplayer-QbSUqNef"),
+            narrow: false,
+            autoplay: false,
+            showlrc: false,
+            music: {
+              title: "镜像频段&nbsp;(MirroFreq)",
+              author: "&nbsp;凌云归故里",
+              url: "/music/镜像频段.mp3",
+              pic: "/pics/镜像频段.jpg",
+              lrc: ""
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+        </script>
+<div>
+
+<div style="text-align: center;">
+
+<h2 id="谱面下载"><a href="#谱面下载" class="headerlink" title="谱面下载"></a>谱面下载</h2><div>
+<div>
+<p style="font-family: sans-serif;">
+
+<a class="btn-beautify green larger" href="https://teacharm.oss-cn-shanghai.aliyuncs.com/%E8%8C%B6%E9%9F%B5-%E6%98%9F%E8%BD%A8%E4%B9%90%E9%80%94.mcb" title="点击下载"><i class="far fa-hand-point-right"></i><span>点击下载</span></a>
+</p>]]></content>
+      <tags>
+        <tag>原创专辑</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>茶韵播报 第1期</title>
     <url>/2025/08/21/%E6%92%AD%E6%8A%A51/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>阳光透过蓝色的窗帘，照在病床上，白花花一片。嘿！那里已经没有人了，你在看什么呢？一首全球爆火的歌、一盘蒙太奇片段构成的录像带、一场泣下如雨的葬礼……她的离去是谁一辈子的阴霾，如同这七月，寥无晴天。茶韵主线版本1.1开启！《旧屋门前人影》系列故事第一篇章《七月无晴天》将在奇点放映室为您放映，还有新角色、新曲包等待大家来体验！</p>
@@ -202,12 +369,12 @@
 <h2 id="三、主线《旧屋门前人影》系列篇章正式放映"><a href="#三、主线《旧屋门前人影》系列篇章正式放映" class="headerlink" title="三、主线《旧屋门前人影》系列篇章正式放映"></a>三、主线《旧屋门前人影》系列篇章正式放映</h2><p>第一篇章《七月无晴天》将会围绕林菡以及她身边的事情开展。生命最后的日子里，爱情、友情如同两颗永恒的太阳围绕着她。是温暖，还是炙烤?她的、他们的故事等待着大家的阅读。更新方式会在B站官号的专栏发布~<br><img src="/pics/%E6%97%A7%E5%B1%8B%E9%97%A8%E5%89%8D%E4%BA%BA%E5%BD%B1.png"></p>
 <h2 id="四、主线曲包《七月无晴天》更新"><a href="#四、主线曲包《七月无晴天》更新" class="headerlink" title="四、主线曲包《七月无晴天》更新"></a>四、主线曲包《七月无晴天》更新</h2><p>主线曲包《七月无晴天》将作为第二期第一个茶韵Event曲包同步于 Malody V 的官方Event释出，包含《你要的全拿走》、《Sacred Play Secret Place》等歌曲。参与活动可以获得1.1主线周边、周边打折券和心愿点歌台的点歌次数哦!</p>
 
-        <div id="aplayer-NpfvklzQ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:100%;">
+        <div id="aplayer-PzwtCmXI" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:100%;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-NpfvklzQ"),
+            element: document.getElementById("aplayer-PzwtCmXI"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -223,12 +390,12 @@
           window.aplayers.push(ap);
         </script>
 
-        <div id="aplayer-hOnRljpK" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:100%;">
+        <div id="aplayer-ZAKQHCgi" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:100%;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-hOnRljpK"),
+            element: document.getElementById("aplayer-ZAKQHCgi"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -697,12 +864,12 @@
 <h2 id="三、主线《旧屋门前人影》系列第二篇章放映"><a href="#三、主线《旧屋门前人影》系列第二篇章放映" class="headerlink" title="三、主线《旧屋门前人影》系列第二篇章放映"></a>三、主线《旧屋门前人影》系列第二篇章放映</h2><p>第二篇章《昨日叶落，明日金花》将会围绕叶洛以及他的经历开展。当一个人的生活被爱意填满，是否还能够准确地分辨出“谎言”与“真相”呢？更新方式会在B站官号的专栏发布~</p>
 <h2 id="四、主线曲包《昨日叶落，明日金花》更新"><a href="#四、主线曲包《昨日叶落，明日金花》更新" class="headerlink" title="四、主线曲包《昨日叶落，明日金花》更新"></a>四、主线曲包《昨日叶落，明日金花》更新</h2><p>主线曲包《昨日叶落，明日金花》将作为第三期第一个茶韵活动曲包同步于MalodyV的官方Event释出，包含《七色交响曲》、《花たちに希望を》等歌曲。参与活动可以获得1.2主线周边、周边打折券和心愿点歌台的点歌次数哦!</p>
 
-        <div id="aplayer-GBfeMbWI" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:100%;">
+        <div id="aplayer-UJSutAWx" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:100%;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-GBfeMbWI"),
+            element: document.getElementById("aplayer-UJSutAWx"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -718,12 +885,12 @@
           window.aplayers.push(ap);
         </script>
 
-        <div id="aplayer-TLlZEclB" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:100%;">
+        <div id="aplayer-yDFNPLzt" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:100%;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-TLlZEclB"),
+            element: document.getElementById("aplayer-yDFNPLzt"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -748,173 +915,6 @@
 ]]></content>
       <tags>
         <tag>新版本预热</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《星轨乐途》—— 茶韵又一原创专辑上线！</title>
-    <url>/2025/10/12/%E6%98%9F%E8%BD%A8%E4%B9%90%E9%80%94/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div style="font-size: 18px;">
-<div style="font-family: 'Source Han Serif CN Semibold', serif;">
-<div style="text-align: center;">
-向前，向上。
-
-<p>透过窗镜，看到万千世界。</p>
-<div style="text-align: center;">
-
-<h2 id="专辑介绍"><a href="#专辑介绍" class="headerlink" title="专辑介绍"></a>专辑介绍</h2><div>
-
-<p><img src="/pics/%E6%98%9F%E8%BD%A8%E4%B9%90%E9%80%94.jpg"></p>
-<div style="text-align: center;">
-
-<h2 id="歌曲试听"><a href="#歌曲试听" class="headerlink" title="歌曲试听"></a>歌曲试听</h2><div>
-
-
-  <video controls style="max-width: 100%; height: auto;">
-    <source src="/video/星轨乐途.mp4" type="video/mp4">
-  </video>
-<div style="text-align: center;">
-
-<h2 id="歌曲一览"><a href="#歌曲一览" class="headerlink" title="歌曲一览"></a>歌曲一览</h2><div>
-
-<div style="text-align: left;">
-
-        <div id="aplayer-KskOUJll" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
-            <pre class="aplayer-lrc-content"></pre>
-        </div>
-        <script>
-          var ap = new APlayer({
-            element: document.getElementById("aplayer-KskOUJll"),
-            narrow: false,
-            autoplay: false,
-            showlrc: false,
-            music: {
-              title: "可爱之夜&nbsp;(Kawaii Night)",
-              author: "&nbsp;6AM",
-              url: "/music/可爱之夜.mp3",
-              pic: "/pics/可爱之夜.jpg",
-              lrc: ""
-            }
-          });
-          window.aplayers || (window.aplayers = []);
-          window.aplayers.push(ap);
-        </script>
-
-        <div id="aplayer-zxrxhYRo" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
-            <pre class="aplayer-lrc-content"></pre>
-        </div>
-        <script>
-          var ap = new APlayer({
-            element: document.getElementById("aplayer-zxrxhYRo"),
-            narrow: false,
-            autoplay: false,
-            showlrc: false,
-            music: {
-              title: "刻骨铭心&nbsp;(ENGMEMOVED)",
-              author: "&nbsp;6AM",
-              url: "/music/刻骨铭心.mp3",
-              pic: "/pics/刻骨铭心.jpg",
-              lrc: ""
-            }
-          });
-          window.aplayers || (window.aplayers = []);
-          window.aplayers.push(ap);
-        </script>
-
-        <div id="aplayer-AdGlhTla" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
-            <pre class="aplayer-lrc-content"></pre>
-        </div>
-        <script>
-          var ap = new APlayer({
-            element: document.getElementById("aplayer-AdGlhTla"),
-            narrow: false,
-            autoplay: false,
-            showlrc: false,
-            music: {
-              title: "镜风云&nbsp;(Expansive Crystals)",
-              author: "&nbsp;Rovlas",
-              url: "/music/镜风云.mp3",
-              pic: "/pics/镜风云.jpg",
-              lrc: ""
-            }
-          });
-          window.aplayers || (window.aplayers = []);
-          window.aplayers.push(ap);
-        </script>
-
-        <div id="aplayer-uWBhxPmL" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
-            <pre class="aplayer-lrc-content"></pre>
-        </div>
-        <script>
-          var ap = new APlayer({
-            element: document.getElementById("aplayer-uWBhxPmL"),
-            narrow: false,
-            autoplay: false,
-            showlrc: false,
-            music: {
-              title: "裂变回响&nbsp;(Cracking Echo)",
-              author: "&nbsp;Rovlas",
-              url: "/music/裂变回响.mp3",
-              pic: "/pics/裂变回响.jpg",
-              lrc: ""
-            }
-          });
-          window.aplayers || (window.aplayers = []);
-          window.aplayers.push(ap);
-        </script>
-
-        <div id="aplayer-kpWnqoXA" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
-            <pre class="aplayer-lrc-content"></pre>
-        </div>
-        <script>
-          var ap = new APlayer({
-            element: document.getElementById("aplayer-kpWnqoXA"),
-            narrow: false,
-            autoplay: false,
-            showlrc: false,
-            music: {
-              title: "汞之雨~ Mercuriglym",
-              author: "&nbsp;凌云归故里",
-              url: "/music/汞之雨.mp3",
-              pic: "/pics/汞之雨.jpg",
-              lrc: ""
-            }
-          });
-          window.aplayers || (window.aplayers = []);
-          window.aplayers.push(ap);
-        </script>
-
-        <div id="aplayer-bvLtIGJC" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
-            <pre class="aplayer-lrc-content"></pre>
-        </div>
-        <script>
-          var ap = new APlayer({
-            element: document.getElementById("aplayer-bvLtIGJC"),
-            narrow: false,
-            autoplay: false,
-            showlrc: false,
-            music: {
-              title: "镜像频段&nbsp;(MirroFreq)",
-              author: "&nbsp;凌云归故里",
-              url: "/music/镜像频段.mp3",
-              pic: "/pics/镜像频段.jpg",
-              lrc: ""
-            }
-          });
-          window.aplayers || (window.aplayers = []);
-          window.aplayers.push(ap);
-        </script>
-<div>
-
-<div style="text-align: center;">
-
-<h2 id="谱面下载"><a href="#谱面下载" class="headerlink" title="谱面下载"></a>谱面下载</h2><div>
-<div>
-<p style="font-family: sans-serif;">
-
-<a class="btn-beautify green larger" href="https://teacharm.oss-cn-shanghai.aliyuncs.com/%E8%8C%B6%E9%9F%B5-%E6%98%9F%E8%BD%A8%E4%B9%90%E9%80%94.mcb" title="点击下载"><i class="far fa-hand-point-right"></i><span>点击下载</span></a>
-</p>]]></content>
-      <tags>
-        <tag>原创专辑</tag>
       </tags>
   </entry>
   <entry>

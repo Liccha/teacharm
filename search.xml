@@ -14,153 +14,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《幻海争鸣》—— 茶韵首个原创专辑上线！</title>
-    <url>/2025/04/28/%E5%B9%BB%E6%B5%B7%E4%BA%89%E9%B8%A3/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div style="font-size: 18px;">
-<div style="font-family: 'Source Han Serif CN Semibold', serif;">
-<div style="text-align: center;">
-坐上这趟远轮
-
-<p>除了这张船票，我拥有的也不多<br>离开家乡，踏上旅途<br>握紧手中的船票，随海风登上甲板<br>喧嚷的音乐厅、 纷至沓来的游客、 热烈的灯火与船歌<br>放轻松，我们至少还有一个漫长的夜晚。</p>
-<p><img src="https://yanfa-upload.oss-cn-zhangjiakou.aliyuncs.com/images/20251104/1762258933_wqbs_tpzb.jpg"></p>
-<div style="text-align: center;">
-
-<h2 id="专辑介绍"><a href="#专辑介绍" class="headerlink" title="专辑介绍"></a>专辑介绍</h2><div>
-
-<p><img src="https://zkaicc.huilan.com/aicc/api/aicc-file/miniofile/preViewPicture/aicc/qdqqd_1762258930223.jpg"></p>
-<div style="text-align: center;">
-
-<h2 id="歌曲试听"><a href="#歌曲试听" class="headerlink" title="歌曲试听"></a>歌曲试听</h2><div>
-
-  <video controls style="max-width: 100%; height: auto;">
-    <source src="https://coss.yupoo.com/upchat/2025-11-04/1762230929199.mp4" type="video/mp4">
-  </video>
-<div style="text-align: center;">
-
-<h2 id="歌曲一览"><a href="#歌曲一览" class="headerlink" title="歌曲一览"></a>歌曲一览</h2><div>
-
-<div style="text-align: left;">
-
-        <div id="aplayer-sJNfiUsz" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
-            <pre class="aplayer-lrc-content"></pre>
-        </div>
-        <script>
-          var ap = new APlayer({
-            element: document.getElementById("aplayer-sJNfiUsz"),
-            narrow: false,
-            autoplay: false,
-            showlrc: false,
-            music: {
-              title: "棱镜维度&nbsp;(16-QAM System)",
-              author: "&nbsp;Rovlas",
-              url: "/music/棱镜维度.mp3",
-              pic: "https://yanfa-upload.oss-cn-zhangjiakou.aliyuncs.com/images/20251104/1762258947_wqbs_tpzb.jpg",
-              lrc: ""
-            }
-          });
-          window.aplayers || (window.aplayers = []);
-          window.aplayers.push(ap);
-        </script>
-
-        <div id="aplayer-NdESmoqX" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
-            <pre class="aplayer-lrc-content"></pre>
-        </div>
-        <script>
-          var ap = new APlayer({
-            element: document.getElementById("aplayer-NdESmoqX"),
-            narrow: false,
-            autoplay: false,
-            showlrc: false,
-            music: {
-              title: "炫闪樱花&nbsp;(Sabora)",
-              author: "&nbsp;6AM",
-              url: "/music/炫闪樱花.mp3",
-              pic: "https://s3plus.meituan.net/opapisdk/op_ticket_1_885190757_1762258952936_qdqqd_vr0wau.jpg",
-              lrc: ""
-            }
-          });
-          window.aplayers || (window.aplayers = []);
-          window.aplayers.push(ap);
-        </script>
-
-        <div id="aplayer-PjLRGYQJ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
-            <pre class="aplayer-lrc-content"></pre>
-        </div>
-        <script>
-          var ap = new APlayer({
-            element: document.getElementById("aplayer-PjLRGYQJ"),
-            narrow: false,
-            autoplay: false,
-            showlrc: false,
-            music: {
-              title: "幻海回音&nbsp;(Sais Pas Rhapsody)",
-              author: "&nbsp;Rovlas",
-              url: "/music/幻海回音.mp3",
-              pic: "https://e3f49eaa46b57.cdn.sohucs.com/2025/11/4/20/22/MTAwMTE0XzE3NjIyNTg5MjQ3NzU=.png",
-              lrc: ""
-            }
-          });
-          window.aplayers || (window.aplayers = []);
-          window.aplayers.push(ap);
-        </script>
-
-        <div id="aplayer-YEsXgiTM" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
-            <pre class="aplayer-lrc-content"></pre>
-        </div>
-        <script>
-          var ap = new APlayer({
-            element: document.getElementById("aplayer-YEsXgiTM"),
-            narrow: false,
-            autoplay: false,
-            showlrc: false,
-            music: {
-              title: "绝望双子&nbsp;(Tragins)",
-              author: "&nbsp;6AM",
-              url: "/music/绝望双子.mp3",
-              pic: "https://static.eeo.cn/upload/file/20251104/1762258937860167.jpg",
-              lrc: ""
-            }
-          });
-          window.aplayers || (window.aplayers = []);
-          window.aplayers.push(ap);
-        </script>
-
-        <div id="aplayer-DUAZIQvP" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
-            <pre class="aplayer-lrc-content"></pre>
-        </div>
-        <script>
-          var ap = new APlayer({
-            element: document.getElementById("aplayer-DUAZIQvP"),
-            narrow: false,
-            autoplay: false,
-            showlrc: false,
-            music: {
-              title: "冰穹折跃&nbsp;(Discrete Cryo)",
-              author: "&nbsp;Rovlas",
-              url: "/music/冰穹折跃.mp3",
-              pic: "https://pic.sl.al/gdrive/pic/2025-11-04/fileid_15bFSN9hgPINmsDd9xin964tOaf9e-XFS_image_1762258954977.jpeg",
-              lrc: ""
-            }
-          });
-          window.aplayers || (window.aplayers = []);
-          window.aplayers.push(ap);
-        </script>
-<div>
-
-<div style="text-align: center;">
-
-<h2 id="谱面下载"><a href="#谱面下载" class="headerlink" title="谱面下载"></a>谱面下载</h2><div>
-<div>
-<p style="font-family: sans-serif;">
-
-<a class="btn-beautify green larger" href="https://teacharm.oss-cn-shanghai.aliyuncs.com/%E5%B9%BB%E6%B5%B7%E5%9B%9E%E9%9F%B3.mcb" title="点击下载"><i class="far fa-hand-point-right"></i><span>点击下载</span></a><div style="font-size: 12px;">
-<p>(下载之后怎么玩？<a href="/jiaocheng/">点击这里</a>)</p>
-</p>]]></content>
-      <tags>
-        <tag>原创专辑</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>旧屋门前人影——七月无晴天</title>
     <url>/2025/09/02/1.1%E6%96%87%E7%AB%A0/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="一"><a href="#一" class="headerlink" title="一"></a>一</h2><p>我在男友最穷的那年提了分手。</p>
@@ -596,29 +449,47 @@
       </tags>
   </entry>
   <entry>
-    <title>茶韵播报 第1期</title>
-    <url>/2025/08/21/%E6%92%AD%E6%8A%A51/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>阳光透过蓝色的窗帘，照在病床上，白花花一片。嘿！那里已经没有人了，你在看什么呢？一首全球爆火的歌、一盘蒙太奇片段构成的录像带、一场泣下如雨的葬礼……她的离去是谁一辈子的阴霾，如同这七月，寥无晴天。茶韵主线版本1.1开启！《旧屋门前人影》系列故事第一篇章《七月无晴天》将在奇点放映室为您放映，还有新角色、新曲包等待大家来体验！</p>
-<p><img src="https://youke1.picui.cn/s1/2025/11/04/6909ec5cb6477.jpg"></p>
-<h2 id="一、1-1版本预热活动《一卷录像带》先导放映"><a href="#一、1-1版本预热活动《一卷录像带》先导放映" class="headerlink" title="一、1.1版本预热活动《一卷录像带》先导放映"></a>一、1.1版本预热活动《一卷录像带》先导放映</h2><p><img src="https://cdncs.ykt.cbern.com.cn/v0.1/download?path=/zxx_feedback/feedback/1762258461047_1.1%E9%A2%84%E7%83%AD.png">明明是一卷录像带，可首先见到的的却是一本铺满灰尘的薄本。这些置留心底的故事，是谁挥之不去的阴霾?</p>
-<h2 id="二、第1期《吼吼留声机》结算"><a href="#二、第1期《吼吼留声机》结算" class="headerlink" title="二、第1期《吼吼留声机》结算"></a>二、第1期《吼吼留声机》结算</h2><p>感谢大家在1.0版本游玩茶韵的三期event，我们将记录《重返未来Vo1.1》、《术力ロの精选集 Vo1.4》和《动感节拍Vo1.7》三期event 的成绩，并发放奖励，请获得奖励的玩家及时查看私信!</p>
-<h2 id="三、主线《旧屋门前人影》系列篇章正式放映"><a href="#三、主线《旧屋门前人影》系列篇章正式放映" class="headerlink" title="三、主线《旧屋门前人影》系列篇章正式放映"></a>三、主线《旧屋门前人影》系列篇章正式放映</h2><p>第一篇章《七月无晴天》将会围绕林菡以及她身边的事情开展。生命最后的日子里，爱情、友情如同两颗永恒的太阳围绕着她。是温暖，还是炙烤?她的、他们的故事等待着大家的阅读。更新方式会在B站官号的专栏发布~<br><img src="https://static.eeo.cn/upload/images/20251104/431392989717f7209975.png"></p>
-<h2 id="四、主线曲包《七月无晴天》更新"><a href="#四、主线曲包《七月无晴天》更新" class="headerlink" title="四、主线曲包《七月无晴天》更新"></a>四、主线曲包《七月无晴天》更新</h2><p>主线曲包《七月无晴天》将作为第二期第一个茶韵Event曲包同步于 Malody V 的官方Event释出，包含《你要的全拿走》、《Sacred Play Secret Place》等歌曲。参与活动可以获得1.1主线周边、周边打折券和心愿点歌台的点歌次数哦!</p>
+    <title>《幻海争鸣》—— 茶韵首个原创专辑上线！</title>
+    <url>/2025/04/28/%E5%B9%BB%E6%B5%B7%E4%BA%89%E9%B8%A3/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div style="font-size: 18px;">
+<div style="font-family: 'Source Han Serif CN Semibold', serif;">
+<div style="text-align: center;">
+坐上这趟远轮
 
-        <div id="aplayer-qhuGhXpR" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:100%;">
+<p>除了这张船票，我拥有的也不多<br>离开家乡，踏上旅途<br>握紧手中的船票，随海风登上甲板<br>喧嚷的音乐厅、 纷至沓来的游客、 热烈的灯火与船歌<br>放轻松，我们至少还有一个漫长的夜晚。</p>
+<p><img src="https://yanfa-upload.oss-cn-zhangjiakou.aliyuncs.com/images/20251104/1762258933_wqbs_tpzb.jpg"></p>
+<div style="text-align: center;">
+
+<h2 id="专辑介绍"><a href="#专辑介绍" class="headerlink" title="专辑介绍"></a>专辑介绍</h2><div>
+
+<p><img src="https://zkaicc.huilan.com/aicc/api/aicc-file/miniofile/preViewPicture/aicc/qdqqd_1762258930223.jpg"></p>
+<div style="text-align: center;">
+
+<h2 id="歌曲试听"><a href="#歌曲试听" class="headerlink" title="歌曲试听"></a>歌曲试听</h2><div>
+
+  <video controls style="max-width: 100%; height: auto;">
+    <source src="https://coss.yupoo.com/upchat/2025-11-04/1762230929199.mp4" type="video/mp4">
+  </video>
+<div style="text-align: center;">
+
+<h2 id="歌曲一览"><a href="#歌曲一览" class="headerlink" title="歌曲一览"></a>歌曲一览</h2><div>
+
+<div style="text-align: left;">
+
+        <div id="aplayer-pNHPkvOw" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-qhuGhXpR"),
+            element: document.getElementById("aplayer-pNHPkvOw"),
             narrow: false,
             autoplay: false,
             showlrc: false,
             music: {
-              title: "你要的全拿走",
-              author: "胡彦斌",
-              url: "/music/你要的全拿走.mp3",
-              pic: "https://saas.chatbot.cn/download/minio/standard/2025-11-04/f11c5b044c194435a90321e86165da22.jpg",
+              title: "棱镜维度&nbsp;(16-QAM System)",
+              author: "&nbsp;Rovlas",
+              url: "/music/棱镜维度.mp3",
+              pic: "https://yanfa-upload.oss-cn-zhangjiakou.aliyuncs.com/images/20251104/1762258947_wqbs_tpzb.jpg",
               lrc: ""
             }
           });
@@ -626,20 +497,20 @@
           window.aplayers.push(ap);
         </script>
 
-        <div id="aplayer-iJSwKYRM" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:100%;">
+        <div id="aplayer-SUBNTicw" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-iJSwKYRM"),
+            element: document.getElementById("aplayer-SUBNTicw"),
             narrow: false,
             autoplay: false,
             showlrc: false,
             music: {
-              title: "Sacred Play Secret Place",
-              author: "Matryoshka",
-              url: "/music/Sacred Play Secret Place.mp3",
-              pic: "https://intellcs.sinosafe.com.cn/immessage/api/v1/message/attachment/download?groupName=group1&authorization=EnAfMjUzaQVz&fileName=M00/00/9D/CgNDL2kJ7iCAS-BJAASSLmyZdos855.jpg",
+              title: "炫闪樱花&nbsp;(Sabora)",
+              author: "&nbsp;6AM",
+              url: "/music/炫闪樱花.mp3",
+              pic: "https://s3plus.meituan.net/opapisdk/op_ticket_1_885190757_1762258952936_qdqqd_vr0wau.jpg",
               lrc: ""
             }
           });
@@ -647,9 +518,141 @@
           window.aplayers.push(ap);
         </script>
 
-<h2 id="五、新角色「林菡」登场，新技能、新面板全都有"><a href="#五、新角色「林菡」登场，新技能、新面板全都有" class="headerlink" title="五、新角色「林菡」登场，新技能、新面板全都有!"></a>五、新角色「林菡」登场，新技能、新面板全都有!</h2><p>新角色「林菡」将会在1.1版本发布后公开新的RM风格皮肤，同时拥有专属新技能哦!<br><img src="https://intellcs.sinosafe.com.cn/immessage/api/v1/message/attachment/download?groupName=group1&authorization=EnAfMjUzaQVz&fileName=M00/00/9D/CgNDimkJ7haAYrNIAA4WC6hqF0g715.png"></p>
-<h2 id="六、《七月无晴天》主线主题周边售卖"><a href="#六、《七月无晴天》主线主题周边售卖" class="headerlink" title="六、《七月无晴天》主线主题周边售卖"></a>六、《七月无晴天》主线主题周边售卖</h2><p>1.1主线周边将于1.1版本第一场Event 下半正式售卖。价格公道、制作精美，请大家期待哦~ 周边盈利茶韵会用来进行美术、音乐等方面的专属定制~</p>
-<h2 id="七、第2期《吼吼留声机》开启"><a href="#七、第2期《吼吼留声机》开启" class="headerlink" title="七、第2期《吼吼留声机》开启"></a>七、第2期《吼吼留声机》开启</h2><p>散落的音符落在指尖，新的声音从其缓缓流出。全新三期event，让我们拭目以待。</p>
+        <div id="aplayer-ubPGJRII" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+            <pre class="aplayer-lrc-content"></pre>
+        </div>
+        <script>
+          var ap = new APlayer({
+            element: document.getElementById("aplayer-ubPGJRII"),
+            narrow: false,
+            autoplay: false,
+            showlrc: false,
+            music: {
+              title: "幻海回音&nbsp;(Sais Pas Rhapsody)",
+              author: "&nbsp;Rovlas",
+              url: "/music/幻海回音.mp3",
+              pic: "https://e3f49eaa46b57.cdn.sohucs.com/2025/11/4/20/22/MTAwMTE0XzE3NjIyNTg5MjQ3NzU=.png",
+              lrc: ""
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+        </script>
+
+        <div id="aplayer-OPaqnGYf" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+            <pre class="aplayer-lrc-content"></pre>
+        </div>
+        <script>
+          var ap = new APlayer({
+            element: document.getElementById("aplayer-OPaqnGYf"),
+            narrow: false,
+            autoplay: false,
+            showlrc: false,
+            music: {
+              title: "绝望双子&nbsp;(Tragins)",
+              author: "&nbsp;6AM",
+              url: "/music/绝望双子.mp3",
+              pic: "https://static.eeo.cn/upload/file/20251104/1762258937860167.jpg",
+              lrc: ""
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+        </script>
+
+        <div id="aplayer-PQGHyffI" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+            <pre class="aplayer-lrc-content"></pre>
+        </div>
+        <script>
+          var ap = new APlayer({
+            element: document.getElementById("aplayer-PQGHyffI"),
+            narrow: false,
+            autoplay: false,
+            showlrc: false,
+            music: {
+              title: "冰穹折跃&nbsp;(Discrete Cryo)",
+              author: "&nbsp;Rovlas",
+              url: "/music/冰穹折跃.mp3",
+              pic: "https://pic.sl.al/gdrive/pic/2025-11-04/fileid_15bFSN9hgPINmsDd9xin964tOaf9e-XFS_image_1762258954977.jpeg",
+              lrc: ""
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+        </script>
+<div>
+
+<div style="text-align: center;">
+
+<h2 id="谱面下载"><a href="#谱面下载" class="headerlink" title="谱面下载"></a>谱面下载</h2><div>
+<div>
+<p style="font-family: sans-serif;">
+
+<a class="btn-beautify green larger" href="https://teacharm.oss-cn-shanghai.aliyuncs.com/%E5%B9%BB%E6%B5%B7%E5%9B%9E%E9%9F%B3.mcb" title="点击下载"><i class="far fa-hand-point-right"></i><span>点击下载</span></a><div style="font-size: 12px;">
+<p>(下载之后怎么玩？<a href="/jiaocheng/">点击这里</a>)</p>
+</p>]]></content>
+      <tags>
+        <tag>原创专辑</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>茶韵播报 第2期</title>
+    <url>/2025/11/01/%E6%92%AD%E6%8A%A52/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>种下一棵树，最好的时间是什么时候呢？也许每个人都有自己的答案，而对于叶洛来说，这个时间被定格在儿时的某个下午；对白羽来讲，亦是如此。他们协作，亲手种下一把种子，展望着那看似伸手就能摸得到的未来；他们许诺，要在每年秋天尽情采摘，同田间邻里亲朋共享丰收时刻；他们见证，见证了一个又一个春夏秋冬，转眼间即将见证他们彼此的成人之喜。他们习惯着享受对方的陪伴宠爱，直到……</p>
+<p>《旧屋门前人影》系列故事第二篇章《昨日叶落，明日金花》将在奇点放映室为您放映，还有新角色、新曲包等待大家来体验！</p>
+<p><img src="https://cdncs.ykt.cbern.com.cn/v0.1/download?path=/zxx_feedback/feedback/1762256745219_1.png"></p>
+<h2 id="一、1-2版本预热活动《篝火盛焰时》先导放映"><a href="#一、1-2版本预热活动《篝火盛焰时》先导放映" class="headerlink" title="一、1.2版本预热活动《篝火盛焰时》先导放映"></a>一、1.2版本预热活动《篝火盛焰时》先导放映</h2><p><img src="https://file.zhuyitai.com/feedback/202511/04/c7bf57c99a49d1a1d1668d4cf5d8c702.png">冬日之夜于篝火旁忘情起舞，世间一切烦恼都被暂时抛掷脑后。人们聚焦着主角们的光彩，似乎从未关注过这团火焰因何而来、归往何处。</p>
+<h2 id="二、第2期《吼吼留声机》结算"><a href="#二、第2期《吼吼留声机》结算" class="headerlink" title="二、第2期《吼吼留声机》结算"></a>二、第2期《吼吼留声机》结算</h2><p><img src="https://e3f49eaa46b57.cdn.sohucs.com/2025/11/4/19/45/MTAwMTE0XzE3NjIyNTY3MjIzNzQ=.png"><img src="https://saas.chatbot.cn/download/minio/standard/2025-11-04/0c7a4f08fbb04cada7dcf08563b5c99b.png"><img src="https://static.eeo.cn/upload/images/20251104/ce887096160ea24f3582.png"><img src="https://cdn.jsdelivr.net.cn/gh/qdqqd/tc_temp/qttnlazs1t.png"><img src="https://yanfa-upload.oss-cn-zhangjiakou.aliyuncs.com/images/20251104/1762256743_wqbs_tpzb.png">感谢大家在1.1版本游玩茶韵的五期event，我们将记录《七月无晴天》、《动感节拍Vol.8》、《炫彩之音Vol.3》等五期event的成绩，并发放奖励，请获得奖励的玩家及时查看私信!</p>
+<h2 id="三、主线《旧屋门前人影》系列第二篇章放映"><a href="#三、主线《旧屋门前人影》系列第二篇章放映" class="headerlink" title="三、主线《旧屋门前人影》系列第二篇章放映"></a>三、主线《旧屋门前人影》系列第二篇章放映</h2><p>第二篇章《昨日叶落，明日金花》将会围绕叶洛以及他的经历开展。当一个人的生活被爱意填满，是否还能够准确地分辨出“谎言”与“真相”呢？更新方式会在B站官号的专栏发布~</p>
+<h2 id="四、主线曲包《昨日叶落，明日金花》更新"><a href="#四、主线曲包《昨日叶落，明日金花》更新" class="headerlink" title="四、主线曲包《昨日叶落，明日金花》更新"></a>四、主线曲包《昨日叶落，明日金花》更新</h2><p>主线曲包《昨日叶落，明日金花》将作为第三期第一个茶韵活动曲包同步于MalodyV的官方Event释出，包含《七色交响曲》、《花たちに希望を》等歌曲。参与活动可以获得1.2主线周边、周边打折券和心愿点歌台的点歌次数哦!</p>
+
+        <div id="aplayer-zbxYjyjq" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:100%;">
+            <pre class="aplayer-lrc-content"></pre>
+        </div>
+        <script>
+          var ap = new APlayer({
+            element: document.getElementById("aplayer-zbxYjyjq"),
+            narrow: false,
+            autoplay: false,
+            showlrc: false,
+            music: {
+              title: "七色シンフォニー",
+              author: "コアラモード",
+              url: "/music/七色交响曲.mp3",
+              pic: "https://e3f49eaa46b57.cdn.sohucs.com/2025/11/4/19/45/MTAwMTE0XzE3NjIyNTY3NTc1ODA=.png",
+              lrc: ""
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+        </script>
+
+        <div id="aplayer-eofcnWjk" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:100%;">
+            <pre class="aplayer-lrc-content"></pre>
+        </div>
+        <script>
+          var ap = new APlayer({
+            element: document.getElementById("aplayer-eofcnWjk"),
+            narrow: false,
+            autoplay: false,
+            showlrc: false,
+            music: {
+              title: "花たちに希望を",
+              author: "Sound piercer feat.DAZBEE",
+              url: "/music/花たちに希望を.mp3",
+              pic: "https://kycloud4.koyoo.cn/2025110466bfb202511041945562071.jpg",
+              lrc: ""
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+        </script>
+
+<h2 id="五、新角色「叶洛」登场，新技能、新面板全都有"><a href="#五、新角色「叶洛」登场，新技能、新面板全都有" class="headerlink" title="五、新角色「叶洛」登场，新技能、新面板全都有!"></a>五、新角色「叶洛」登场，新技能、新面板全都有!</h2><p>新角色「叶洛」将会在1.2版本发布后公开新的RM风格皮肤，同时拥有专属新技能哦!<img src="https://saas.chatbot.cn/download/minio/standard/2025-11-04/f78d1e49197f467782d5cf04fd9fb535.png"></p>
+<h2 id="六、《昨日叶落，明日金花》主线主题周边售卖"><a href="#六、《昨日叶落，明日金花》主线主题周边售卖" class="headerlink" title="六、《昨日叶落，明日金花》主线主题周边售卖"></a>六、《昨日叶落，明日金花》主线主题周边售卖</h2><p>1.2主线周边将于1.2版本下半正式售卖。价格公道、制作精美，请大家期待哦~ 周边盈利茶韵会用来进行美术、音乐等方面的专属定制~ </p>
+<h2 id="七、第3期《吼吼留声机》开启"><a href="#七、第3期《吼吼留声机》开启" class="headerlink" title="七、第3期《吼吼留声机》开启"></a>七、第3期《吼吼留声机》开启</h2><p>散落的音符落在指尖，新的声音从其缓缓流出。全新活动放出，让我们拭目以待。</p>
+<h2 id="八、半纪行歌·茶韵谱师团队Staff登场"><a href="#八、半纪行歌·茶韵谱师团队Staff登场" class="headerlink" title="八、半纪行歌·茶韵谱师团队Staff登场"></a>八、半纪行歌·茶韵谱师团队Staff登场</h2><p>来自茶韵的成员「沄虓」将在1.2与大家见面。时针走过半圈，逆旅者的足迹在岁月的琴键上奏响和鸣。那些未曾消逝的回响，正是我们共同谱写的半纪行歌。<img src="https://saas.chatbot.cn/download/minio/standard/2025-11-04/bc1c601f59364c748012610b5f7bb742.png"></p>
+<h2 id="九、1-3新春版本预热《急急如律令》"><a href="#九、1-3新春版本预热《急急如律令》" class="headerlink" title="九、1.3新春版本预热《急急如律令》"></a>九、1.3新春版本预热《急急如律令》</h2><p>吾观星影以见罅漏，急急如律令！</p>
 <hr>
 ]]></content>
       <tags>
@@ -684,12 +687,12 @@
 
 <div style="text-align: left;">
 
-        <div id="aplayer-TUCSqYfW" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-zDQjhkmP" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-TUCSqYfW"),
+            element: document.getElementById("aplayer-zDQjhkmP"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -705,12 +708,12 @@
           window.aplayers.push(ap);
         </script>
 
-        <div id="aplayer-duqNzasl" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-mudHcrSZ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-duqNzasl"),
+            element: document.getElementById("aplayer-mudHcrSZ"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -726,12 +729,12 @@
           window.aplayers.push(ap);
         </script>
 
-        <div id="aplayer-VjUbQIVT" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-lZzPBOAv" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-VjUbQIVT"),
+            element: document.getElementById("aplayer-lZzPBOAv"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -747,12 +750,12 @@
           window.aplayers.push(ap);
         </script>
 
-        <div id="aplayer-JeSepCBJ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-zQNJwLnv" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-JeSepCBJ"),
+            element: document.getElementById("aplayer-zQNJwLnv"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -768,12 +771,12 @@
           window.aplayers.push(ap);
         </script>
 
-        <div id="aplayer-tYEVLWoF" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-dbKCJAMZ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-tYEVLWoF"),
+            element: document.getElementById("aplayer-dbKCJAMZ"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -789,12 +792,12 @@
           window.aplayers.push(ap);
         </script>
 
-        <div id="aplayer-HYelWqOD" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-EjpmtaQI" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-HYelWqOD"),
+            element: document.getElementById("aplayer-EjpmtaQI"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -825,30 +828,29 @@
       </tags>
   </entry>
   <entry>
-    <title>茶韵播报 第2期</title>
-    <url>/2025/11/01/%E6%92%AD%E6%8A%A52/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>种下一棵树，最好的时间是什么时候呢？也许每个人都有自己的答案，而对于叶洛来说，这个时间被定格在儿时的某个下午；对白羽来讲，亦是如此。他们协作，亲手种下一把种子，展望着那看似伸手就能摸得到的未来；他们许诺，要在每年秋天尽情采摘，同田间邻里亲朋共享丰收时刻；他们见证，见证了一个又一个春夏秋冬，转眼间即将见证他们彼此的成人之喜。他们习惯着享受对方的陪伴宠爱，直到……</p>
-<p>《旧屋门前人影》系列故事第二篇章《昨日叶落，明日金花》将在奇点放映室为您放映，还有新角色、新曲包等待大家来体验！</p>
-<p><img src="https://cdncs.ykt.cbern.com.cn/v0.1/download?path=/zxx_feedback/feedback/1762256745219_1.png"></p>
-<h2 id="一、1-2版本预热活动《篝火盛焰时》先导放映"><a href="#一、1-2版本预热活动《篝火盛焰时》先导放映" class="headerlink" title="一、1.2版本预热活动《篝火盛焰时》先导放映"></a>一、1.2版本预热活动《篝火盛焰时》先导放映</h2><p><img src="https://file.zhuyitai.com/feedback/202511/04/c7bf57c99a49d1a1d1668d4cf5d8c702.png">冬日之夜于篝火旁忘情起舞，世间一切烦恼都被暂时抛掷脑后。人们聚焦着主角们的光彩，似乎从未关注过这团火焰因何而来、归往何处。</p>
-<h2 id="二、第2期《吼吼留声机》结算"><a href="#二、第2期《吼吼留声机》结算" class="headerlink" title="二、第2期《吼吼留声机》结算"></a>二、第2期《吼吼留声机》结算</h2><p><img src="https://e3f49eaa46b57.cdn.sohucs.com/2025/11/4/19/45/MTAwMTE0XzE3NjIyNTY3MjIzNzQ=.png"><img src="https://saas.chatbot.cn/download/minio/standard/2025-11-04/0c7a4f08fbb04cada7dcf08563b5c99b.png"><img src="https://static.eeo.cn/upload/images/20251104/ce887096160ea24f3582.png"><img src="https://cdn.jsdelivr.net.cn/gh/qdqqd/tc_temp/qttnlazs1t.png"><img src="https://yanfa-upload.oss-cn-zhangjiakou.aliyuncs.com/images/20251104/1762256743_wqbs_tpzb.png">感谢大家在1.1版本游玩茶韵的五期event，我们将记录《七月无晴天》、《动感节拍Vol.8》、《炫彩之音Vol.3》等五期event的成绩，并发放奖励，请获得奖励的玩家及时查看私信!</p>
-<h2 id="三、主线《旧屋门前人影》系列第二篇章放映"><a href="#三、主线《旧屋门前人影》系列第二篇章放映" class="headerlink" title="三、主线《旧屋门前人影》系列第二篇章放映"></a>三、主线《旧屋门前人影》系列第二篇章放映</h2><p>第二篇章《昨日叶落，明日金花》将会围绕叶洛以及他的经历开展。当一个人的生活被爱意填满，是否还能够准确地分辨出“谎言”与“真相”呢？更新方式会在B站官号的专栏发布~</p>
-<h2 id="四、主线曲包《昨日叶落，明日金花》更新"><a href="#四、主线曲包《昨日叶落，明日金花》更新" class="headerlink" title="四、主线曲包《昨日叶落，明日金花》更新"></a>四、主线曲包《昨日叶落，明日金花》更新</h2><p>主线曲包《昨日叶落，明日金花》将作为第三期第一个茶韵活动曲包同步于MalodyV的官方Event释出，包含《七色交响曲》、《花たちに希望を》等歌曲。参与活动可以获得1.2主线周边、周边打折券和心愿点歌台的点歌次数哦!</p>
+    <title>茶韵播报 第1期</title>
+    <url>/2025/08/21/%E6%92%AD%E6%8A%A51/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>阳光透过蓝色的窗帘，照在病床上，白花花一片。嘿！那里已经没有人了，你在看什么呢？一首全球爆火的歌、一盘蒙太奇片段构成的录像带、一场泣下如雨的葬礼……她的离去是谁一辈子的阴霾，如同这七月，寥无晴天。茶韵主线版本1.1开启！《旧屋门前人影》系列故事第一篇章《七月无晴天》将在奇点放映室为您放映，还有新角色、新曲包等待大家来体验！</p>
+<p><img src="https://youke1.picui.cn/s1/2025/11/04/6909ec5cb6477.jpg"></p>
+<h2 id="一、1-1版本预热活动《一卷录像带》先导放映"><a href="#一、1-1版本预热活动《一卷录像带》先导放映" class="headerlink" title="一、1.1版本预热活动《一卷录像带》先导放映"></a>一、1.1版本预热活动《一卷录像带》先导放映</h2><p><img src="https://cdncs.ykt.cbern.com.cn/v0.1/download?path=/zxx_feedback/feedback/1762258461047_1.1%E9%A2%84%E7%83%AD.png">明明是一卷录像带，可首先见到的的却是一本铺满灰尘的薄本。这些置留心底的故事，是谁挥之不去的阴霾?</p>
+<h2 id="二、第1期《吼吼留声机》结算"><a href="#二、第1期《吼吼留声机》结算" class="headerlink" title="二、第1期《吼吼留声机》结算"></a>二、第1期《吼吼留声机》结算</h2><p>感谢大家在1.0版本游玩茶韵的三期event，我们将记录《重返未来Vo1.1》、《术力ロの精选集 Vo1.4》和《动感节拍Vo1.7》三期event 的成绩，并发放奖励，请获得奖励的玩家及时查看私信!</p>
+<h2 id="三、主线《旧屋门前人影》系列篇章正式放映"><a href="#三、主线《旧屋门前人影》系列篇章正式放映" class="headerlink" title="三、主线《旧屋门前人影》系列篇章正式放映"></a>三、主线《旧屋门前人影》系列篇章正式放映</h2><p>第一篇章《七月无晴天》将会围绕林菡以及她身边的事情开展。生命最后的日子里，爱情、友情如同两颗永恒的太阳围绕着她。是温暖，还是炙烤?她的、他们的故事等待着大家的阅读。更新方式会在B站官号的专栏发布~<br><img src="https://static.eeo.cn/upload/images/20251104/431392989717f7209975.png"></p>
+<h2 id="四、主线曲包《七月无晴天》更新"><a href="#四、主线曲包《七月无晴天》更新" class="headerlink" title="四、主线曲包《七月无晴天》更新"></a>四、主线曲包《七月无晴天》更新</h2><p>主线曲包《七月无晴天》将作为第二期第一个茶韵Event曲包同步于 Malody V 的官方Event释出，包含《你要的全拿走》、《Sacred Play Secret Place》等歌曲。参与活动可以获得1.1主线周边、周边打折券和心愿点歌台的点歌次数哦!</p>
 
-        <div id="aplayer-eMEPyqFO" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:100%;">
+        <div id="aplayer-rqEHNDot" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:100%;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-eMEPyqFO"),
+            element: document.getElementById("aplayer-rqEHNDot"),
             narrow: false,
             autoplay: false,
             showlrc: false,
             music: {
-              title: "七色シンフォニー",
-              author: "コアラモード",
-              url: "/music/七色交响曲.mp3",
-              pic: "https://e3f49eaa46b57.cdn.sohucs.com/2025/11/4/19/45/MTAwMTE0XzE3NjIyNTY3NTc1ODA=.png",
+              title: "你要的全拿走",
+              author: "胡彦斌",
+              url: "/music/你要的全拿走.mp3",
+              pic: "https://saas.chatbot.cn/download/minio/standard/2025-11-04/f11c5b044c194435a90321e86165da22.jpg",
               lrc: ""
             }
           });
@@ -856,20 +858,20 @@
           window.aplayers.push(ap);
         </script>
 
-        <div id="aplayer-rMomPfDO" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:100%;">
+        <div id="aplayer-iysrIcnS" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:100%;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-rMomPfDO"),
+            element: document.getElementById("aplayer-iysrIcnS"),
             narrow: false,
             autoplay: false,
             showlrc: false,
             music: {
-              title: "花たちに希望を",
-              author: "Sound piercer feat.DAZBEE",
-              url: "/music/花たちに希望を.mp3",
-              pic: "https://kycloud4.koyoo.cn/2025110466bfb202511041945562071.jpg",
+              title: "Sacred Play Secret Place",
+              author: "Matryoshka",
+              url: "/music/Sacred Play Secret Place.mp3",
+              pic: "https://intellcs.sinosafe.com.cn/immessage/api/v1/message/attachment/download?groupName=group1&authorization=EnAfMjUzaQVz&fileName=M00/00/9D/CgNDL2kJ7iCAS-BJAASSLmyZdos855.jpg",
               lrc: ""
             }
           });
@@ -877,11 +879,9 @@
           window.aplayers.push(ap);
         </script>
 
-<h2 id="五、新角色「叶洛」登场，新技能、新面板全都有"><a href="#五、新角色「叶洛」登场，新技能、新面板全都有" class="headerlink" title="五、新角色「叶洛」登场，新技能、新面板全都有!"></a>五、新角色「叶洛」登场，新技能、新面板全都有!</h2><p>新角色「叶洛」将会在1.2版本发布后公开新的RM风格皮肤，同时拥有专属新技能哦!<img src="https://saas.chatbot.cn/download/minio/standard/2025-11-04/f78d1e49197f467782d5cf04fd9fb535.png"></p>
-<h2 id="六、《昨日叶落，明日金花》主线主题周边售卖"><a href="#六、《昨日叶落，明日金花》主线主题周边售卖" class="headerlink" title="六、《昨日叶落，明日金花》主线主题周边售卖"></a>六、《昨日叶落，明日金花》主线主题周边售卖</h2><p>1.2主线周边将于1.2版本下半正式售卖。价格公道、制作精美，请大家期待哦~ 周边盈利茶韵会用来进行美术、音乐等方面的专属定制~ </p>
-<h2 id="七、第3期《吼吼留声机》开启"><a href="#七、第3期《吼吼留声机》开启" class="headerlink" title="七、第3期《吼吼留声机》开启"></a>七、第3期《吼吼留声机》开启</h2><p>散落的音符落在指尖，新的声音从其缓缓流出。全新活动放出，让我们拭目以待。</p>
-<h2 id="八、半纪行歌·茶韵谱师团队Staff登场"><a href="#八、半纪行歌·茶韵谱师团队Staff登场" class="headerlink" title="八、半纪行歌·茶韵谱师团队Staff登场"></a>八、半纪行歌·茶韵谱师团队Staff登场</h2><p>来自茶韵的成员「沄虓」将在1.2与大家见面。时针走过半圈，逆旅者的足迹在岁月的琴键上奏响和鸣。那些未曾消逝的回响，正是我们共同谱写的半纪行歌。<img src="https://saas.chatbot.cn/download/minio/standard/2025-11-04/bc1c601f59364c748012610b5f7bb742.png"></p>
-<h2 id="九、1-3新春版本预热《急急如律令》"><a href="#九、1-3新春版本预热《急急如律令》" class="headerlink" title="九、1.3新春版本预热《急急如律令》"></a>九、1.3新春版本预热《急急如律令》</h2><p>吾观星影以见罅漏，急急如律令！</p>
+<h2 id="五、新角色「林菡」登场，新技能、新面板全都有"><a href="#五、新角色「林菡」登场，新技能、新面板全都有" class="headerlink" title="五、新角色「林菡」登场，新技能、新面板全都有!"></a>五、新角色「林菡」登场，新技能、新面板全都有!</h2><p>新角色「林菡」将会在1.1版本发布后公开新的RM风格皮肤，同时拥有专属新技能哦!<br><img src="https://intellcs.sinosafe.com.cn/immessage/api/v1/message/attachment/download?groupName=group1&authorization=EnAfMjUzaQVz&fileName=M00/00/9D/CgNDimkJ7haAYrNIAA4WC6hqF0g715.png"></p>
+<h2 id="六、《七月无晴天》主线主题周边售卖"><a href="#六、《七月无晴天》主线主题周边售卖" class="headerlink" title="六、《七月无晴天》主线主题周边售卖"></a>六、《七月无晴天》主线主题周边售卖</h2><p>1.1主线周边将于1.1版本第一场Event 下半正式售卖。价格公道、制作精美，请大家期待哦~ 周边盈利茶韵会用来进行美术、音乐等方面的专属定制~</p>
+<h2 id="七、第2期《吼吼留声机》开启"><a href="#七、第2期《吼吼留声机》开启" class="headerlink" title="七、第2期《吼吼留声机》开启"></a>七、第2期《吼吼留声机》开启</h2><p>散落的音符落在指尖，新的声音从其缓缓流出。全新三期event，让我们拭目以待。</p>
 <hr>
 ]]></content>
       <tags>
@@ -889,23 +889,9 @@
       </tags>
   </entry>
   <entry>
-    <title>新角色上线——林菡</title>
-    <url>/2025/09/02/%E6%9E%97%E8%8F%A1%E7%9A%AE%E8%82%A4/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="你好，我叫林菡。"><a href="#你好，我叫林菡。" class="headerlink" title="你好，我叫林菡。"></a>你好，我叫林菡。</h1><h2 id="一、观影定位"><a href="#一、观影定位" class="headerlink" title="一、观影定位"></a>一、观影定位</h2><p><img src="https://youke1.picui.cn/s1/2025/11/04/6909ecfa3b63b.png"></p>
-<h2 id="二、映前介绍"><a href="#二、映前介绍" class="headerlink" title="二、映前介绍"></a>二、映前介绍</h2><p><img src="https://pic.sl.al/gdrive/pic/2025-11-04/fileid_10uN8S_WVb5LzeTs3R8ccB-TC8Ni_qRxZ_image_1762267095119.png"></p>
-<h2 id="三、角色技能"><a href="#三、角色技能" class="headerlink" title="三、角色技能"></a>三、角色技能</h2><p><img src="https://static.eeo.cn/upload/file/20251104/1762267078918456.jpg"></p>
-<h2 id="四、观影指南"><a href="#四、观影指南" class="headerlink" title="四、观影指南"></a>四、观影指南</h2><p>除人物技能外，林菡皮肤相比默认皮肤还做出了其他的优化，一起来看看吧！<br><img src="https://www.yn12377.cn/jubao/upload/smjb/2025/11/04/cb8461ceac094d24acdf7f33ca4877eb.png"></p>
-<h2 id="五、下载链接"><a href="#五、下载链接" class="headerlink" title="五、下载链接"></a>五、下载链接</h2><p>您可以在群内搜索相应皮肤文件，也可以<a href="http://file.mugzone.net//6475-RM-Tea_Charm_Lin_Han_Skin.msp?t=1756793193">点击此处</a>直接下载。有关皮肤更多信息，欢迎访问<a href="https://m.mugzone.net/store/skin/detail/6475">https://m.mugzone.net/store/skin/detail/6475</a>。</p>
-<hr>
-]]></content>
-      <tags>
-        <tag>上线皮肤</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>新角色同行——沄虓</title>
     <url>/2025/11/15/%E6%B2%84%E8%99%93%E7%9A%AE%E8%82%A4/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><em><strong><p style="font-size: 18px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我曾仰望星空，摘星揽月。</p></strong></em><em><strong><p style="font-size: 18px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;也曾向往大海，乘风破浪。</p></strong></em></p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><em><strong><p style="font-size:18px; text-align:center;">我曾仰望星空，摘星揽月。</p></strong></em><em><strong><p style="font-size:18px; text-align:center;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;也曾向往大海，乘风破浪。</p></strong></em></p>
 <h2 id="一、角色立绘"><a href="#一、角色立绘" class="headerlink" title="一、角色立绘"></a>一、角色立绘</h2><p><img src="https://file.zhuyitai.com/feedback/202511/09/0dd69e8cd3e91b648c460dd49128355a.png"></p>
 <h2 id="二、角色技能"><a href="#二、角色技能" class="headerlink" title="二、角色技能"></a>二、角色技能</h2><p><img src="https://static.eeo.cn/upload/file/20251109/1762676595590471.png"></p>
 <hr>
@@ -1016,5 +1002,19 @@
 <p>如果你有其他疑问，或对页面内容有补充建议，欢迎在下方进行评论。评论时请遵守基本的社交礼仪。</p>
 <hr>
 ]]></content>
+  </entry>
+  <entry>
+    <title>新角色上线——林菡</title>
+    <url>/2025/09/02/%E6%9E%97%E8%8F%A1%E7%9A%AE%E8%82%A4/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="你好，我叫林菡。"><a href="#你好，我叫林菡。" class="headerlink" title="你好，我叫林菡。"></a>你好，我叫林菡。</h1><h2 id="一、观影定位"><a href="#一、观影定位" class="headerlink" title="一、观影定位"></a>一、观影定位</h2><p><img src="https://youke1.picui.cn/s1/2025/11/04/6909ecfa3b63b.png"></p>
+<h2 id="二、映前介绍"><a href="#二、映前介绍" class="headerlink" title="二、映前介绍"></a>二、映前介绍</h2><p><img src="https://pic.sl.al/gdrive/pic/2025-11-04/fileid_10uN8S_WVb5LzeTs3R8ccB-TC8Ni_qRxZ_image_1762267095119.png"></p>
+<h2 id="三、角色技能"><a href="#三、角色技能" class="headerlink" title="三、角色技能"></a>三、角色技能</h2><p><img src="https://static.eeo.cn/upload/file/20251104/1762267078918456.jpg"></p>
+<h2 id="四、观影指南"><a href="#四、观影指南" class="headerlink" title="四、观影指南"></a>四、观影指南</h2><p>除人物技能外，林菡皮肤相比默认皮肤还做出了其他的优化，一起来看看吧！<br><img src="https://www.yn12377.cn/jubao/upload/smjb/2025/11/04/cb8461ceac094d24acdf7f33ca4877eb.png"></p>
+<h2 id="五、下载链接"><a href="#五、下载链接" class="headerlink" title="五、下载链接"></a>五、下载链接</h2><p>您可以在群内搜索相应皮肤文件，也可以<a href="http://file.mugzone.net//6475-RM-Tea_Charm_Lin_Han_Skin.msp?t=1756793193">点击此处</a>直接下载。有关皮肤更多信息，欢迎访问<a href="https://m.mugzone.net/store/skin/detail/6475">https://m.mugzone.net/store/skin/detail/6475</a>。</p>
+<hr>
+]]></content>
+      <tags>
+        <tag>上线皮肤</tag>
+      </tags>
   </entry>
 </search>

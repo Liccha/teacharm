@@ -71,7 +71,7 @@
         document.head.appendChild(link)
       }),
       addGlobalFn: (key, fn, name = false, parent = window) => {
-        if (!true && key.startsWith('pjax')) return
+        if (!/music/ && key.startsWith('pjax')) return
         const globalFn = parent.globalFn || {}
         globalFn[key] = globalFn[key] || {}
         globalFn[key][name || Object.keys(globalFn[key]).length] = fn
@@ -138,7 +138,7 @@
   isHighlightShrink: false,
   isToc: true,
   pageType: 'post'
-}</script><meta name="generator" content="Hexo 8.1.1"></head><body><div id="loading-box"><div class="loading-left-bg"></div><div class="loading-right-bg"></div><div class="spinner-box"><div class="configure-border-1"><div class="configure-core"></div></div><div class="configure-border-2"><div class="configure-core"></div></div><div class="loading-word">加载中...</div></div></div><script>(()=>{
+}</script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><meta name="generator" content="Hexo 8.1.1"></head><body><div id="loading-box"><div class="loading-left-bg"></div><div class="loading-right-bg"></div><div class="spinner-box"><div class="configure-border-1"><div class="configure-core"></div></div><div class="configure-border-2"><div class="configure-core"></div></div><div class="loading-word">加载中...</div></div></div><script>(()=>{
   const $loadingBox = document.getElementById('loading-box')
   const $body = document.body
   const preloader = {
@@ -164,7 +164,7 @@
     setTimeout(preloader.endLoading, 7000)
   }
 
-  if (true) {
+  if (/music/) {
     btf.addGlobalFn('pjaxSend', preloader.initLoading, 'preloader_init')
     btf.addGlobalFn('pjaxComplete', preloader.endLoading, 'preloader_end')
   }
@@ -321,7 +321,31 @@
   } else {
     window.loadOtherComment = loadWaline
   }
-})()</script></div><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script><script src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><meting-js server="netease" type="playlist" id="17422340120" fixed="true" autoplay="false" theme="#2980b9" loop="all" order="list" preload="auto" volume="0.8" mutex="true"> </meting-js><script> document.addEventListener('pjax:complete', function () { if (window.aplayers) { for (let i = 0; i < window.aplayers.length; i++) { try { window.aplayers[i].destroy(); } catch (e) {} } } if (typeof MetingJSElement !== 'undefined') { document.querySelectorAll('meting-js').forEach((el) => { const newEl = el.cloneNode(true); el.parentNode.replaceChild(newEl, el); }); } }); </script><script src="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1.1.6/dist/activate-power-mode.min.js"></script><script>POWERMODE.colorful = true;
+})()</script></div><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script><script src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><script>
+  document.addEventListener('DOMContentLoaded', function () {
+    if (!document.getElementById('global-aplayer')) {
+      const div = document.createElement('div');
+      div.innerHTML = `
+        <meting-js
+          id="17422340120"
+          server="netease"
+          type="playlist"
+          fixed="true"
+          autoplay="false"
+          theme="#2980b9"
+          loop="all"
+          order="list"
+          preload="auto"
+          volume="0.8"
+          mutex="true">
+        </meting-js>
+      `;
+      div.id = 'global-aplayer';
+      document.body.appendChild(div);
+    }
+  });
+</script>
+<script src="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1.1.6/dist/activate-power-mode.min.js"></script><script>POWERMODE.colorful = true;
 POWERMODE.shake = false;
 POWERMODE.mobile = true;
 document.body.addEventListener('input', POWERMODE);
@@ -391,7 +415,7 @@ document.body.addEventListener('input', POWERMODE);
 
   document.addEventListener('pjax:error', e => {
     if (e.request.status === 404) {
-      const usePjax = true
+      const usePjax = /music/
       false
         ? (usePjax ? pjax.loadUrl('/404') : window.location.href = '/404')
         : window.location.href = e.request.responseURL
